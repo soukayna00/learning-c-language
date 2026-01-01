@@ -1,3 +1,14 @@
+#include <stdio.h>
+
+
+int scoreOfString(char* s);
+
+int main(){
+    int scoreOfString(char* s);
+    return 0;
+}
+
+
 int scoreOfString(char* s) {
     int i;
     int score=0;
